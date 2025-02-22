@@ -151,8 +151,8 @@ Authorization: Bearer "your-access-token"
 ## 🛠 Instalasi & Menjalankan API
 
 ```sh
-git clone https://github.com/username/repo.git
-cd repo
+git clone https://github.com/fauzyDev/API-Laravel-RBCA.git
+cd rbca-api
 composer install
 cp .env.example .env
 php artisan db:seed --class=UserSeeder
