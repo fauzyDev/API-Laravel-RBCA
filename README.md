@@ -28,16 +28,22 @@ untuk memasukan token nya klik menu Authorization lalu ke Type ganti ke Bearer T
 ## Email dan Password untuk Login
 
 **Admin**
-email: admin@example.com
-password: admin
+
+**email:** admin@example.com
+
+**password:** admin
 
 **Editor**
-email: editor@example.com
-password: editor
+
+**email:** editor@example.com
+
+**password:** editor
 
 **Viewer**
-email: viewer@example.com
-password: viewer
+
+**email:** viewer@example.com
+
+**password:** viewer
 
 ### 1. Login
 
@@ -147,7 +153,7 @@ Authorization: Bearer "your-access-token"
 | **Admin**  |    ✅      |      ✅    |        ✅      |        ✅          |
 | **Editor** |    ✅      |      ✅    |        ✅      |        ❌          |
 | **Viewer** |    ✅      |      ❌    |        ❌      |        ❌          |
-|____________|_____________|___________|__________________|_____________________|
+|            |            |             |                |                     |
 ## 🛠 Instalasi & Menjalankan API
 
 ```sh
