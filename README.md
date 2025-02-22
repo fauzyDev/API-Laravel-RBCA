@@ -27,22 +27,19 @@ untuk memasukan token nya klik menu Authorization lalu ke Type ganti ke Bearer T
 
 ## Email dan Password untuk Login
 
-**Admin**
+### Admin
 
 **email:** admin@example.com
-
 **password:** admin
 
-**Editor**
+### Editor
 
 **email:** editor@example.com
-
 **password:** editor
 
-**Viewer**
+### Viewer
 
 **email:** viewer@example.com
-
 **password:** viewer
 
 ### 1. Login
