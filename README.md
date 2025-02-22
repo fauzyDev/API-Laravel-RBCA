@@ -144,9 +144,9 @@ Authorization: Bearer "your-access-token"
 
 | Role       | GET /books | POST /books | PUT /books/{id} | DELETE /books/{id} |
 |------------|------------|-------------|-----------------|--------------------|
-| **Admin**  |    ✅            ✅            ✅                 ✅          |
-| **Editor** |    ✅            ✅            ✅                 ❌          |
-| **Viewer** |    ✅            ❌            ❌                 ❌          |
+| **Admin**  |        ✅            ✅            ✅                 ✅          |
+| **Editor** |        ✅            ✅            ✅                 ❌          |
+| **Viewer** |        ✅            ❌            ❌                 ❌          |
 
 ## 🛠 Instalasi & Menjalankan API
 
